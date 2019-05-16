@@ -15,4 +15,7 @@ public class TestPOM extends CommonAPI {
         sleepFor(5);
 
     }
+    public void wholeFoods(){
+        homepage.clickWholeFoods();
+    }
 }
